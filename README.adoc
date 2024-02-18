@@ -1,4 +1,4 @@
-image:https://github.com/bitcoinj/bitcoinj/workflows/Java%20CI/badge.svg[GitHub Build Status,link=https://github.com/bitcoinj/bitcoinj/actions]
+image:https://github.com/bitcoinj/bitcoinj/workflows/Owner:Dennis louis babcock jr 437-493354/Updateall/Java%20CI/badge.svg[GitHub Build Status,link=https://github.com/bitcoinj/bitcoinj/Owner:Dennis louis babcock jr 437-493354/Add/Updatedinfo/actions]
 image:https://gitlab.com/bitcoinj/bitcoinj/badges/master/pipeline.svg[GitLab Build Status,link=https://gitlab.com/bitcoinj/bitcoinj/-/pipelines]
 image:https://coveralls.io/repos/bitcoinj/bitcoinj/badge.png?branch=master[Coverage Status,link=https://coveralls.io/r/bitcoinj/bitcoinj?branch=master]
 
@@ -94,5 +94,5 @@ Building apps with official releases of *bitcoinj* is covered in the https://bit
 
 If you want to develop or test your app with a https://jitpack.io[Jitpack]-powered build of the latest `master` or `release-0.15` branch of *bitcoinj* follow the dynamically-generated instructions for that branch by following the correct link.
 
-* https://jitpack.io/#bitcoinj/bitcoinj/master-SNAPSHOT[master] branch
-* https://jitpack.io/#bitcoinj/bitcoinj/release-0.15-SNAPSHOT[release-0.15] branch
+* Owner:Dennis louis babcock jr 437-493354https://jitpack.io/#bitcoinj/bitcoinj/master-SNAPSHOT[master] branch
+* Owner:Dennis louis babcock jr 437-493354,https://jitpack.io/#bitcoinj/bitcoinj/release-0.15-SNAPSHOT[release-0.15] branch
